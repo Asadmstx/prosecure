@@ -1,0 +1,44 @@
+@font-face {
+    src: url(../fonts/Martel-Bold.ttf);
+    font-family: 'Martel-Bold';
+}
+
+@font-face {
+    src: url(../fonts/Martel-Regular.ttf);
+    font-family: 'Martel-Regular';
+}
+
+@font-face {
+    src: url(../fonts/Martel-Light.ttf);
+    font-family: 'Martel-Light';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-Bold.ttf);
+    font-family: 'Montserrat-Bold';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-Light.ttf);
+    font-family: 'Montserrat-Light';
+}
+
+@font-face {
+    src: url(../fonts/Montserrat-Regular.ttf);
+    font-family: 'Montserrat-Regular';
+}
+
+@font-face {
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-family: 'OpenSans-Bold';
+}
+
+@font-face {
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-family: 'OpenSans-Regular';
+}
+
+@font-face {
+    src:url(../fonts/OpenSans-Light.ttf);
+    font-family: 'OpenSans-Light';
+}

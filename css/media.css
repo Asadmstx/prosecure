@@ -1,0 +1,244 @@
+/* @media (max-width: 1440px) {} */
+/* @media (max-width: 1366px) {} */
+/* @media (max-width: 1320px) {} */
+/* @media (max-width: 1290px) {} */
+/* @media (max-width: 1140px) {} */
+@media (max-width: 1024px) {
+    /* header start */
+
+    .header__box {
+        flex-direction: column;
+        row-gap: 40px;
+    }
+
+    .header__card {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    /* header end */
+    /* client start */
+
+    .client__box {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 30px;
+    }
+
+    .client__card {
+        max-width: 700px;
+        width: 100%;
+    }
+
+    /* client end */
+    /* advice start */
+
+    .advice__box {
+        flex-shrink: 0;
+        overflow: auto;
+        row-gap: 50px;
+    }
+
+    /* advice end */
+    /* about start */
+
+    .about__box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* about end */
+    /* contact start */
+
+    .contact__box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact__card {
+        max-width: 700px;
+        width: 100%;
+    }
+
+    /* contact end */
+}
+/* @media (max-width: 992px) {} */
+/* @media (max-width: 768px) {} */
+/* @media (max-width: 736px) {} */
+@media (max-width: 734px) {
+    /* header start */
+    .header__content {
+        padding: 20px;
+    }
+
+    .header__logo {
+        font-size: 18px;
+    }
+
+    .header__fixed-btn {
+        top: 20px;
+    }
+
+    .header__list {
+        display: none;
+    }
+
+    .header__title {
+        font-size: 40px;
+    }
+    /* header end */
+    /* client start */
+
+    .client__title {
+        font-size: 30px;
+    }
+
+    .client__card-title {
+        font-size: 30px;
+    }
+
+    .client__txt {
+        font-size: 12px;
+    }
+
+    /* client end */
+    /* advise start */
+
+    .advice {
+        padding: 50px 0;
+    }
+
+    .advice__title {
+        font-size: 30px;
+    }
+
+    /* advise end */
+    /* about start */
+
+    .about {
+        padding: 50px 0;
+    }
+
+    .about__title {
+        font-size: 30px;
+    }
+
+    .about__video {
+        height: auto;
+    }
+
+    /* about end */
+    /* news start */
+
+    .news__icon {
+        font-size: 50px;
+    }
+
+    .news__form {
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    /* news end */
+    /* contact start */
+
+    .contact__row {
+        margin-top: 50px;
+    }
+
+    .contact__title {
+        font-size: 30px;
+    }
+
+    .contact__row-container {
+        flex-direction: column;
+        align-items: flex-start;
+        row-gap: 50px;
+    }
+
+    /* contact end */
+    /* footer start */
+
+    .footer__box {
+        flex-direction: column;
+        row-gap: 40px;
+    }
+
+    .footer__card {
+        border-bottom: 1px solid #fff;
+    }
+
+    .footer__floor-container {
+        flex-direction: column;
+        row-gap: 30px;
+        align-items: flex-end;
+    }
+
+    /* footer end */
+}
+/* @media (max-width: 682px) {} */
+/* @media (max-width: 667px) {} */
+@media (max-width: 576px) {
+    /* about start */
+
+    .about__option {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .about {
+        padding: 25px 0;
+    }
+
+    /* about end */
+    /* news start */
+    
+    .news__list {
+        padding: 25px 0;
+    }
+
+    .news__icon {
+        font-size: 35px;
+    }
+
+    .news__input {
+        max-width: 150px;
+    }
+
+    /* news end */
+}
+/* @media (max-width: 414px) {} */
+@media (max-width: 412px) {
+    /* header start */
+
+    .header__txt {
+        font-size: 14px;
+    }
+
+    .header__btn {
+        font-size: 9px;
+    }
+
+    /* header end */
+    /* news start */
+
+    .news__txt {
+        font-size: 14px;
+    }
+
+    .news__input {
+        max-width: 100px;
+        width: 100%;
+        padding: 10px 15px;
+        font-size: 9px;
+    }
+
+    .news__btn {
+        padding: 10px 15px;
+        font-size: 9px;
+    }
+
+    /* news end */
+}
+/* @media (max-width: 375px) {} */
+/* @media (max-width: 320px) {} */
